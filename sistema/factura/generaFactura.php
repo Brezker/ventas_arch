@@ -26,7 +26,7 @@
 		$pdf->SetFont('Arial', 'B', 9);
 		$pdf->Cell(60, 5, utf8_decode($resultado['nombre']), 0, 1, 'C');
 		$pdf->Ln();
-		$pdf->image("img/logo.jpg", 50, 18, 15, 15, 'JPG');
+		$pdf->image("img/logo.png", 50, 18, 15, 15, 'PNG');
 		$pdf->SetFont('Arial', 'B', 7);
 		$pdf->Cell(15, 5, "Ruc: ", 0, 0, 'L');
 		$pdf->SetFont('Arial', '', 7);

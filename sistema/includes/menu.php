@@ -4,7 +4,7 @@
 	<!-- Sidebar - Brand -->
 	<a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.php">
 		<div class="sidebar-brand-icon rotate-n-15">
-			<img src="img/logo.jpg" class="img-thumbnail">
+			<img src="img/logo.png" class="img-thumbnail">
 		</div>
 		<div class="sidebar-brand-text mx-3">Vida Informático</div>
 	</a>
